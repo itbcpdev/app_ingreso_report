@@ -1,0 +1,44 @@
+{
+  "fecreporte":"30/12/2024",
+  "horareporte":"17:02:34",
+  "rucempresa":"20565643496",
+  "dsempresa":"GLOBAL FUEL SOCIEDAD ANONIMA",
+  "cdlocal":"024",
+  "dslocal":"EE.SS. CARHUAZ",
+  "cdusuario":"SIGES",
+  "dsusuario":"SIGES",
+  "cdtpingreso":"COMPR",
+  "nroingreso":"023-0000003",
+  "rucproveedor":"20553167672",
+  "dsproveedor":"NUMAY S.A.",
+  "fecproceso":"29/06/2023",
+  "fecvencimiento":"08/07/2023",
+  "cdtipodoc":"00009",
+  "dstipodoc":"Guia de Remisión Remitente",
+  "nrodocumento":"F005-76749",
+  "subtotal":"25899.44",
+  "mtoimpuesto":"4661.90",
+  "total":"30561.33",
+  "detalles":[
+    {
+      "nroitem":"1",
+      "cdarticulo":"12",
+      "dsarticulo":"GATORADE COOL BLUE 500 ML - GATORADE TROPICAL FRUIT 500 ML",
+      "costo":"16.9163",
+      "cantidad":"1000.00",
+      "subtotal":"16916.29",
+      "mtoimpuesto":"3044.93",
+      "total":"19961.22"
+    },
+    {
+      "nroitem":"2",
+      "cdarticulo":"13",
+      "dsarticulo":"GATORADE COOL BLUE 500 ML - GATORADE TROPICAL FRUIT 500 ML",
+      "costo":"17.9663",
+      "cantidad":"500.00",
+      "subtotal":"8983.15",
+      "mtoimpuesto":"1616.97",
+      "total":"10600.12"
+    }
+  ]
+}
